@@ -1,9 +1,9 @@
 # 🍨 Matka Kulfi™ — Artisan Terracotta Ice Creams
 
-[![Live Demo](https://img.shields.io/badge/LIVE_WEBSITE-VISIT_NOW-C85A32?style=for-the-badge&logo=googlechrome&logoColor=white)](https://<your-github-username>.github.io/<your-repo-name>/)
-[![GitHub Pages](https://img.shields.io/badge/Hosted_On-GitHub_Pages-082245?style=for-the-badge&logo=github)](https://<your-github-username>.github.io/<your-repo-name>/)
+[![Live Demo](https://img.shields.io/badge/LIVE_WEBSITE-VISIT_NOW-C85A32?style=for-the-badge&logo=googlechrome&logoColor=white)](https://parmitadhara.github.io/matka-kulfi/)
+[![GitHub Pages](https://img.shields.io/badge/Hosted_On-GitHub_Pages-082245?style=for-the-badge&logo=github)](https://Parmitadhara.github.io/matka-kulfi/)
 
-👉 **[Click Here to Launch Live Website](https://<your-github-username>.github.io/<your-repo-name>/)**
+👉 **[Click Here to Launch Live Website](https://Parmitadhara.github.io/matka-kulfi/)**
 
 ---
 
